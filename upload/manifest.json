@@ -1,0 +1,16 @@
+{
+    "type": "language_pack",
+    "name": "language-pack-es-es",
+    "full_code": "crm.language-pack-es-es",
+    "vendor": "crm",
+    "code": "es-es",
+    "title": "Spanish Language Pack (Español)",
+    "native_name": "Español",
+    "direction": "ltr",
+    "author": "Anton Barinov",
+    "version": "1.0.1",
+    "category": "localization",
+    "min_crm_version": "20260928.001",
+    "description": "TropaTT CRM Spanish localization package. Includes pack-specific supplemental web translations.",
+    "signature": "8910bf0f5063bd8dffc96396b3e157499ffb46d51cf764d51d81ea86d923ebe0"
+}
